@@ -14,7 +14,7 @@ This project implements a basic student login and management system, including:
 
 ## Setup Instructions
 1. Clone the repository.
-2. Compile the `.class` files and ensure the necessary dependencies are available.
+2. Compile the `.java` files and ensure the necessary dependencies are available.
 3. Execute the project as per your development environment setup.
 
 ## Contributing
